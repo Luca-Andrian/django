@@ -2,7 +2,7 @@
 
 ```bash
 $ # Get the code
-$ git clone https://github.com/app-generator/django-project.git
+$ git clone https://github.com/Luca-Andrian/django-project.git
 $ cd django-project
 $
 $ # Virtualenv modules installation (Unix based systems)
